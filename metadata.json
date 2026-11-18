@@ -1,0 +1,8 @@
+{
+  "name": "NdaY'Fanabeazana — HD-DPI & UNESCO DLW 2027",
+  "description": "National Human Development Digital Public Infrastructure (HD-DPI) Marshall Plan and UNESCO Digital Learning Week 2027 interactive application suite by Individual Enterprise NdaY'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
